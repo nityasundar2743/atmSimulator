@@ -13,3 +13,5 @@ Account Management: Users can create and manage multiple virtual bank accounts w
 Error Handling and Notifications: The simulator is equipped with error handling mechanisms to simulate real-life scenarios, such as insufficient funds, invalid PIN, and Invalid credentials. Users will receive appropriate notifications and prompts to replicate the feedback provided by an actual ATM.
 
 Real-Time Feedback: The simulator offers real-time feedback on transaction status, ensuring users are promptly informed about successful or failed transactions, providing a realistic user experience.
+
+Run the Login.java only
