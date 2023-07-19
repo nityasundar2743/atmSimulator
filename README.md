@@ -14,4 +14,4 @@ Error Handling and Notifications: The simulator is equipped with error handling 
 
 Real-Time Feedback: The simulator offers real-time feedback on transaction status, ensuring users are promptly informed about successful or failed transactions, providing a realistic user experience.
 
-Run the atmSimulator.java only
+Run the atmSimulator.java only and open the folder containing all files in editor.
